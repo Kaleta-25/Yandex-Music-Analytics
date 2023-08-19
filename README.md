@@ -9,7 +9,7 @@ Whenever we're performing analysis, we need to formulate hypotheses that we can 
 
 2. On Monday mornings, Springfield and Shelbyville residents listen to different genres. This is also true for Friday evenings.
 
-3.Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
+3. Springfield and Shelbyville listeners have different preferences. In Springfield, they prefer pop, while Shelbyville has more rap fans.
 
 ### Description of columns:
 - 'userID' — user identifier
